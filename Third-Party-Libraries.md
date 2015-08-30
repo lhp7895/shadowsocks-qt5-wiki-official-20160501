@@ -13,7 +13,7 @@ See my [libQtShadowsocks](https://github.com/librehat/libQtShadowsocks) project.
 Pre-compiled statically linked libraries are provided in `3rdparty` directory. You can get my modified source code [here](http://file.librehat.com/).
 
 ## qrencode
-Pre-compiled statically linked libraries are provided in `3rdparty` directory. There is no source code modification. You can download the source code from their website and compile it yourself. The compiling process Which is based on MSYS/MinGW is listed below.
+Pre-compiled statically linked libraries are provided in `3rdparty` directory. There is no source code modification. You can download the source code from their website and compile it yourself. The compiling process based on MSYS/MinGW is listed below.
 
 ```
 tar xf qrencode-3.4.4.tar.gz
