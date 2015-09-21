@@ -10,7 +10,7 @@ For Windows builds, self-compiled statically linked Qt libraries are used. Becau
 See my [libQtShadowsocks](https://github.com/librehat/libQtShadowsocks) project.
 
 ## zbar
-Pre-compiled statically linked libraries are provided in `3rdparty` directory. You can get my modified source code [here](http://file.librehat.com/).
+You can get my modified source code [here](http://file.librehat.com/).
 
 ## qrencode
 You can download the source code from [their website](https://fukuchi.org/works/qrencode/) and compile it yourself. The compiling process based on MSYS/MinGW is listed below.
