@@ -1,6 +1,6 @@
 # Windows
 
-Require Windows Vista or higher
+Requires Windows XP or higher
 
 1. Download latest prebuilt binaries from [releases](https://github.com/librehat/shadowsocks-qt5/releases).
 2. Unpack it.
