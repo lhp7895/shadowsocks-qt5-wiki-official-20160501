@@ -20,7 +20,7 @@ sudo dnf update
 sudo dnf install shadowsocks-qt5
 ```
 
-You may need to install dnf plugins by below command before you can enable copr repo.
+You may need to install a dnf plugin via the command below, before you can enable copr repo using `dnf`.
 
 ```bash
 sudo dnf install dnf-plugins-core
