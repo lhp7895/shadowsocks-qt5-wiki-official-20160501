@@ -2,7 +2,7 @@
 
 Requires Windows XP or higher
 
-1. Download latest prebuilt binaries from [releases](https://github.com/librehat/shadowsocks-qt5/releases).
+1. Download latest prebuilt binaries from [Amazon Clouddrive](https://www.amazon.com/clouddrive/share/zuTHXXH3DnLiRkbrqUXZPmKOGxddvGVmBgCLbfmqrxm?ref_=cd_ph_share_link_copy).
 2. Unpack it.
 3. Execute `ss-qt5.exe`
 
